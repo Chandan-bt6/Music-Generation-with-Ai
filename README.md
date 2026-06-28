@@ -188,7 +188,6 @@ screenshots/
 
 Then include them here:
 
-```markdown
 ### Training Loss
 
 ![Training Loss](screenshots/1.training_loss.png)
@@ -212,7 +211,6 @@ Then include them here:
 ### Terminal Output3
 
 ![Terminal Output3](screenshots/6.terminal_output(3).png)
-```
 ---
 
 ## 📌 Future Improvements
