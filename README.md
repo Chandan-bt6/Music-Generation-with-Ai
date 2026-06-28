@@ -86,13 +86,13 @@ Music_Generation_With_AI/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Music_Generation_With_AI.git
+git clone https://github.com/Chandan-bt6/Music_Generation_With_AI.git
 ```
 
 Move into the project
 
 ```bash
-cd Music_Generation_With_AI
+cd Music_generation_with_AI
 ```
 
 Install dependencies
@@ -106,7 +106,7 @@ pip install -r requirements.txt
 ## ▶️ Run the Project
 
 ```bash
-python main.py
+python music_generation.py
 ```
 
 The project will:
@@ -175,16 +175,15 @@ Output/
 
 ## 📷 Screenshots
 
-Create a folder named **screenshots** and add images like:
-
 ```
 screenshots/
 
 ├── training_loss.png
-├── piano_roll.png
+├── note_event_representation.png
 ├── generated_music.png
-├── original_music_output.png
-└── terminal_output.png
+├── terminal_output(1).png
+├── terminal_output(2).png
+└── terminal_output(3).png
 ```
 
 Then include them here:
@@ -238,7 +237,7 @@ GitHub:
 https://github.com/Chandan-bt6
 
 LinkedIn:
-(Add your LinkedIn profile link)
+(https://www.linkedin.com/in/chandan-bisht-264977300/)
 
 ---
 
