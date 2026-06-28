@@ -178,12 +178,12 @@ Output/
 ```
 screenshots/
 
-├── training_loss.png
-├── note_event_representation.png
-├── generated_music.png
-├── terminal_output(1).png
-├── terminal_output(2).png
-└── terminal_output(3).png
+├──1.training_loss.png
+├──2.note_event_representation.png
+├──3.generated_music.png
+├──4.terminal_output(1).png
+├──5.terminal_output(2).png
+└──6.terminal_output(3).png
 ```
 
 Then include them here:
