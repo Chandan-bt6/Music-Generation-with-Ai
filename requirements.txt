@@ -1,0 +1,8 @@
+tensorflow
+numpy
+pretty_midi
+mido
+pygame
+scipy
+sounddevice
+matplotlib

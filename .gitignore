@@ -1,0 +1,38 @@
+# Virtual Environment
+Lib/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Dataset
+maestro-v3.0.0-midi/
+
+# Training checkpoints
+training_checkpoints/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Generated cache
+.cache/
